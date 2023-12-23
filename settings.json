@@ -1,0 +1,41 @@
+{
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/duong/Documents/Ctom_VSCode/custom.css"
+    ],
+    "locale": "vi",
+    "workbench.iconTheme": "material-icon-theme",
+    "tabnine.experimentalAutoImports": true,
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "terminal.integrated.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "files.autoSave": "afterDelay",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontFamily": "Dank Mono,Consolas, 'Courier New', monospace",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.fontFamily": "MesloLGM Nerd Font",
+    "terminal.integrated.fontSize": 13,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "line-thin",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.commandCenter": false,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.bracketSameLine": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "workbench.colorTheme": "Dracula",
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    
+}
